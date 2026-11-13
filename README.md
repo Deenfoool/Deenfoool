@@ -4,7 +4,7 @@
 
 **[Открыть портфолио ↗](https://deenfoool.github.io/portfolio/)** · [Связаться в Telegram](https://t.me/DeenFoool)
 
-[![Island Lab — музыка, синхронный текст песен и погода в стеклянной панели для Windows](https://raw.githubusercontent.com/Deenfoool/island-lab/main/docs/images/home.png)](https://deenfoool.github.io/portfolio/#featured)
+[![Island Lab — музыка, синхронный текст песен и погода в стеклянной панели для Windows](https://raw.githubusercontent.com/Deenfoool/island-lab/main/docs/images/homephoto.png)](https://deenfoool.github.io/portfolio/#featured)
 
 ## Избранные проекты
 
